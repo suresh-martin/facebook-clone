@@ -1,0 +1,109 @@
+.Main{
+    display: flex;
+    margin-top: 30px;
+    flex-direction: column;
+    background-color:white;
+    box-shadow:0px 5px 7px -7px rgba(0,0,0,0.75);
+    width: 50%;
+    margin-left: 20px;
+    height: 13vh;
+    border-radius: 5px 5px 2px 2px;
+
+}
+
+
+
+
+
+
+.icons  {
+
+    display: flex;
+}
+
+.Lables{
+      
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    color:gray;
+    padding: 20px;
+    background-color:white;
+    box-shadow:0px 5px 7px -7px rgba(0,0,0,0.75);
+    height: 3vh;
+    margin-top: 22px;
+    width: 94%;
+    margin-left: 1px;
+    border-radius: 2px 2px 5px 5px;
+
+}
+
+
+
+
+.Posting {
+    display: flex;
+    margin-top: 25px;
+    background-color:white;
+    box-shadow:0px 5px 7px -7px rgba(0,0,0,0.75);
+    height: 38vh;
+    border-radius: 5px ;
+}
+
+
+
+.images{
+    display: flex;
+    margin-top: -120px;
+    
+    height: 38vh;
+    background-color:white;
+    box-shadow:0px 5px 7px -7px rgba(0,0,0,0.75);
+}
+
+
+
+
+.Likes {
+    display: flex;
+    margin-top: -15px;
+    margin-left: 1px;
+    background-color:white;
+    box-shadow:0px 5px 7px -7px rgba(0,0,0,0.75);
+    height: 10vh;
+    border-radius: 5px ;
+}
+
+
+.Bussiness{
+
+    display: flex;
+    margin-top: 25px;
+    background-color:white;
+    box-shadow:0px 5px 7px -7px rgba(0,0,0,0.75);
+    height: 38vh;
+    border-radius: 5px ;
+}
+
+
+.Maintain{
+
+    display: flex;
+    margin-top: -120px;
+    height: 38vh;
+    background-color:white;
+    box-shadow:0px 5px 7px -7px rgba(0,0,0,0.75);
+    border-radius: 5px ;
+}
+
+.Share {
+    display: flex;
+    margin-top: -15px;
+    margin-left: 1px;
+    background-color:white;
+    box-shadow:0px 5px 7px -7px rgba(0,0,0,0.75);
+    height: 10vh;
+    border-radius: 5px ;
+
+}
+

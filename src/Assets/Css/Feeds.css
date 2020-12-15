@@ -1,0 +1,40 @@
+.Maindiv {
+
+    display: flex;
+    padding: 10px;
+    width: 160px;
+    position:sticky;
+    background-color:silver;
+    top:0;
+    box-shadow:0px 5px 8px -9px rgba(0,0,0,0.75);
+    height: 250vh;
+
+}
+
+
+
+
+
+
+
+
+.Icondiv,.lablediv {
+    
+    display:flex;
+  
+   flex-direction: column;
+}
+
+
+
+.Letters {
+    
+    display:flex;
+  
+   flex-direction: column;
+   margin-left: 10px;
+}
+
+.Icondiv:hover.lablediv{
+    background-color: white;
+}
